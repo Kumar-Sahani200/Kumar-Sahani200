@@ -1,7 +1,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://Kumar-Sahani.io)
 
-<h1 align="center">Hi 👋, I'm Kumar Sahani</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Hey there! 👋, I'm Kumar Sahani</h1>
+<h3 align="center">A passionate NextJS developer(fullstack) from India</h3>
+<h3 align="center">A believe in making dreams not just SaaS</h3>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75">&nbsp;
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=This+is+Kumar+Sahani;I'm+a+Full+Stack+Developer;A+Problem+Solver)](https://git.io/typing-svg)
