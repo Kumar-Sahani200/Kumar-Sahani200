@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there! 👋, I'm Kumar Sahani</h1>
 <h3 align="center">A passionate NextJS developer(fullstack) from India</h3>
-<h3 align="center">A believe in making dreams not just SaaS</h3>
+<h3 align="center">A believe in making dreams, not just SaaS</h3>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75">&nbsp;
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=This+is+Kumar+Sahani;I'm+a+Full+Stack+Developer;A+Problem+Solver)](https://git.io/typing-svg)
@@ -37,9 +37,14 @@
 
 </p>
 
-<h3 align="left">Languages and Tools I know:</h3>
+<h3 align="left">Languages, FrameWorks & Tools that I'm good with:</h3>
 
-<p align="left"> Typescript, JS</p>
+<p align="left"> Typescript, JS, Postman, NextJS, ReactJS, Kinde, NextAuth, MongoDB Atlas, ShadCN</p>
+
+<h3 align="left">Languages, FrameWorks & Tools that I'm familar with:</h3>
+
+<p align="left"> Java, C, C++, Python, ThreeJS, ExpressJS, Docker</p>
+<p align="left">Hobbies: Reading documents</p>
 
 <h3 align="left">I'm no Batman but, I like to code at Night ;)</h3>
 
