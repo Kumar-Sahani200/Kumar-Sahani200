@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar-sahani&label=Profile%20views&color=0e75b6&style=flat" alt="kumar-sahani" /> </p>
 
-- 👨‍💻 All of my projects are available at [sahani.vercel.app/projects](sahani.vercel.app/projects)
+- 👨‍💻 All of my projects are available at [sahani.vercel.app/projects](https://sahani.vercel.app/projects)
 
 - 📝 I regularly write articles on [sahani.vercel.app/blog](sahani.vercel.app/blog)
 
