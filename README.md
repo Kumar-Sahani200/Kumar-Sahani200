@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [sahani.vercel.app/blog](https://sahani.vercel.app/blog)
 
-- 💬 Ask me about **React, NextJS, SaaS and Startups**
+- 💬 Ask me about **SaaS, AI based projects and Startups**
 
 - 📫 How to reach me **Kumarsahani1311@gmail.com**
 
