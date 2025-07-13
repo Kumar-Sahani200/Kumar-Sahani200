@@ -39,11 +39,12 @@
 
 <h3 align="left">Languages, FrameWorks & Tools that I'm good with:</h3>
 
-<p align="left"> Typescript, JS, Postman, NextJS, ReactJS, Kinde, NextAuth, MongoDB Atlas, ShadCN</p>
+<p align="left"> Typescript, JS, Postman, NestJS, NextJS, ReactJS, Kinde, NextAuth, MongoDB Atlas, ShadCN</p>
 
 <h3 align="left">Languages, FrameWorks & Tools that I'm familar with:</h3>
 
-<p align="left"> Java, C, C++, Python, ThreeJS, ExpressJS, Docker</p>
+<p align="left">Python, ThreeJS, ExpressJS, Docker</p>
+
 <p align="left">Hobbies: Reading documents</p>
 
 <h3 align="left">I'm no Batman but, I like to code at Night ;)</h3>
@@ -53,4 +54,4 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
 </div>
 
-<h3 align="left">I'm no Batman but we never know... you'll not find batman and me in the same room :]</h3>
+<h3 align="left">I'm no Batman but we never know... you'll not find batman and I in the same room :]</h3>
