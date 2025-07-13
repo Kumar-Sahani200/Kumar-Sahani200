@@ -37,13 +37,24 @@
 
 </p>
 
-<h3 align="left">Languages, FrameWorks & Tools that I'm good with:</h3>
+<h3 align="left">Server-side technologies:</h3>
+<p align="left">NestJS, TypeORM, NodeJS, ExpressJS, NextAuth</p>
 
-<p align="left"> Typescript, JS, Postman, NestJS, NextJS, ReactJS, Kinde, NextAuth, MongoDB Atlas, ShadCN</p>
+<h3 align="left">Client-side technologies</h3>
+<p align="left">ReactJS, NextJS, Tailwind, ThreeJS, HTML, CSS</p>
 
-<h3 align="left">Languages, FrameWorks & Tools that I'm familar with:</h3>
+<h3 align="left">Database</h3>
+<p align="left">MongoDB, MySQL</p>
 
-<p align="left">Python, ThreeJS, ExpressJS, Docker</p>
+<h3 align="left">Tools</h3>
+<p align="left">Git, Docker, Adobe Analytics</p>
+
+<h3 align="left">Programming Languages</h3>
+<p align="left">Typescript, Javascript, Python</p>
+
+<h3 align="left">Non Technical Skills</h3>
+<p align="left">Reading Docs, Leadership, Communication, Adaptability, Content Writing</p>
+
 
 <p align="left">Hobbies: Reading documents</p>
 
