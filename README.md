@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://Kumar-Sahani.io)
 
 <h1 align="center">Hey there! 👋, I'm Kumar Sahani</h1>
-<h3 align="center">A passionate NextJS developer(fullstack) from India</h3>
+<h3 align="center">A passionate AI Developer(fullstack)</h3>
 <h3 align="center">A believe in making dreams, not just SaaS</h3>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75">&nbsp;
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **React, NextJS, SaaS and Startups**
 
-- 📫 How to reach me **Kumarsahani1311@gmail.com**
+- 📫 How to reach me **<Kumarsahani1311@gmail.com>**
 
 - 📄 Know about my experiences [sahani.vercel.app/resume](sahani.vercel.app/resume)
 
@@ -39,11 +39,13 @@
 
 <h3 align="left">Languages, FrameWorks & Tools that I'm good with:</h3>
 
-<p align="left"> Typescript, JS, Postman, NextJS, ReactJS, Kinde, NextAuth, MongoDB Atlas, ShadCN</p>
-
-<h3 align="left">Languages, FrameWorks & Tools that I'm familar with:</h3>
-
-<p align="left"> Java, C, C++, Python, ThreeJS, ExpressJS, Docker</p>
+<p align="left">
+  <b>Programming Languages:</b> Python, Typescript, Javascript<br>
+  <b>Server-side:</b> FastAPI, LangGraph, LangChain, NestJS, Swagger, MCP, RAG Pipelines, NodeJS, ExpressJS, TypeORM, NextAuth<br>
+  <b>Client-side:</b> ReactJS, NextJS, Tailwind, ThreeJS, MUI, Chakra UI, HTML, CSS, RestAPI, GraphQL<br>
+  <b>Database:</b> Redis, MongoDB, MySQL<br>
+  <b>Tools:</b> Rancher (K8s), ArgoCD, Git, Docker, GitLab, GitHub, Adobe Analytics
+</p>
 <p align="left">Hobbies: Reading documents</p>
 
 <h3 align="left">I'm no Batman but, I like to code at Night ;)</h3>
