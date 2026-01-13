@@ -5,7 +5,7 @@
 <h3 align="center">A believe in making dreams, not just SaaS</h3>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75">&nbsp;
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=This+is+Kumar+Sahani;I'm+a+Full+Stack+Developer;A+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=This+is+Kumar+Sahani;I'm+an+AI+Engineer;Full+Stack+Developer;A+Problem+Solver)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
 
@@ -27,12 +27,7 @@
 <p align="left">
 
 <div class="links">
-    <a href="https://instagram.com/schrodinger_mind" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50"></a>
     <a href="https://linkedin.com/in/kumar-sahani" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50"></a>
-    <a href="https://www.youtube.com/c/dregun" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="50"></a>
-  <a href="https://wa.me/918143916500" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="50"></a>
-  <a href="https://discordapp.com/users/kumar_sahani" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50"></a>
-  <a href="https://twitter.com/kumarsahani10" target="blank"><img src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" width="50"></a>
   </div>
 
 </p>
