@@ -13,13 +13,11 @@
 
 - 📝 I regularly write articles on [sahani.vercel.app/blog](https://sahani.vercel.app/blog)
 
-- 💬 Ask me about **React, NextJS, SaaS and Startups**
+- 💬 Ask me about **AI Agents, Agentic Systems, SaaS**
 
 - 📫 How to reach me **<Kumarsahani1311@gmail.com>**
 
 - 📄 Know about my experiences [sahani.vercel.app/resume](https://sahani.vercel.app/resume)
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,9 +33,9 @@
 <p align="left">
   <b>Programming Languages:</b> Python, Typescript, Javascript<br>
   <b>Server-side:</b> FastAPI, LangGraph, LangChain, NestJS, Swagger, MCP, RAG Pipelines, NodeJS, ExpressJS, TypeORM, NextAuth<br>
-  <b>Client-side:</b> ReactJS, NextJS, Tailwind, ThreeJS, MUI, Chakra UI, HTML, CSS, RestAPI, GraphQL<br>
+  <b>Client-side:</b> ReactJS, NextJS, Tailwind, ThreeJS, MUI, Chakra UI, HTML, CSS, RestAPI<br>
   <b>Database:</b> Redis, MongoDB, MySQL<br>
-  <b>Tools:</b> Rancher (K8s), ArgoCD, Git, Docker, GitLab, GitHub, Adobe Analytics
+  <b>Tools:</b> A2A, MCP, Rancher (K8s), ArgoCD, Git, Docker, GitLab, GitHub, Adobe Analytics
 </p>
 <p align="left">Hobbies: Reading documents</p>
 
