@@ -7,11 +7,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar-sahani&label=Profile%20views&color=0e75b6&style=flat" alt="kumar-sahani" /> </p>
+- 👨‍💻 My Projects [sahani.vercel.app/projects](https://sahani.vercel.app/projects)
 
-- 👨‍💻 All of my projects are available at [sahani.vercel.app/projects](https://sahani.vercel.app/projects)
-
-- 📝 I regularly write articles on [sahani.vercel.app/blog](https://sahani.vercel.app/blog)
+- 📝 I write blogs on [sahani.vercel.app/blog](https://sahani.vercel.app/blog)
 
 - 💬 Ask me about **AI Agents, Agentic Systems, SaaS**
 
@@ -32,10 +30,10 @@
 
 <p align="left">
   <b>Programming Languages:</b> Python, Typescript, Javascript<br>
-  <b>Server-side:</b> FastAPI, LangGraph, LangChain, NestJS, Swagger, MCP, RAG Pipelines, NodeJS, ExpressJS, TypeORM, NextAuth<br>
+  <b>Server-side:</b> FastAPI, LangGraph, LangChain, A2A, MCP, RAG Pipelines, NestJS, Swagger, NodeJS, ExpressJS, TypeORM, NextAuth<br>
   <b>Client-side:</b> ReactJS, NextJS, Tailwind, ThreeJS, MUI, Chakra UI, HTML, CSS, RestAPI<br>
   <b>Database:</b> Redis, MongoDB, MySQL<br>
-  <b>Tools:</b> A2A, MCP, Rancher (K8s), ArgoCD, Git, Docker, GitLab, GitHub, Adobe Analytics
+  <b>Tools:</b> ArgoCD, Git, Docker, GitLab, GitHub, Adobe Analytics
 </p>
 <p align="left">Hobbies: Reading documents</p>
 
